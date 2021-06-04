@@ -1,0 +1,11 @@
+{
+  "name": "Spotify_API_Fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/curchadw/Spotify_API_Fetch.git",
+  "author": "curtis <laurencechadwell@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "spotify-web-api-js": "^1.5.1"
+  }
+}
